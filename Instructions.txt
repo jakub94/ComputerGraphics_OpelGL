@@ -1,0 +1,20 @@
+Right Mouse Button: Generate Cube on Cursor Position
+Right Mouse Button + Shift: Generate Pyramide on Cursor Position
+
+Left Mouse Button: Select and deselect Cube
+
+Space: Delete all Cubes
+Space + Shift: Delete all Pyramides
+
+W / A / S / D: Move selected cubes around
+Arrow Keys: Rotate selected cubes Cube
+
+Press and hold "+ Key": increase Rotation Speed of Cubes
+Press and hold "- Key": decrease Rotation Speed of Cubes
+Press and hold "+ Key" + Shift : increase Moving Speed of Cubes
+Press and hold "- Key" + Shift : decrease Moving Speed of Cubes
+
+1 / 2 / 3 Buttons: Toggle Pyramid Rotation axis (on / off) // Before Creating Pyramid
+	1 --> x
+	2 --> y
+	3 --> z
